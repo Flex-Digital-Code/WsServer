@@ -1,4 +1,4 @@
-# WsServer
+# WsServer and WsClient (for a webhook)
 
 1. This is currently only running as a console app. It will need to be changed/adapted to what is require for ST software. (MVC, BLAZOR, WEB APP etc)
 
