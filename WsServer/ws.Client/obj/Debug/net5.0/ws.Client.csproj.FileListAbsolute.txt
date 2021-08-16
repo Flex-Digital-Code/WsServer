@@ -1,0 +1,16 @@
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.exe
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.deps.json
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.runtimeconfig.json
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.runtimeconfig.dev.json
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.dll
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ref\ws.Client.dll
+C:\Users\Harry\source\repos\WsServer\ws.Client\bin\Debug\net5.0\ws.Client.pdb
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.csproj.AssemblyReference.cache
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.AssemblyInfoInputs.cache
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.AssemblyInfo.cs
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.csproj.CoreCompileInputs.cache
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.dll
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ref\ws.Client.dll
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.pdb
+C:\Users\Harry\source\repos\WsServer\ws.Client\obj\Debug\net5.0\ws.Client.genruntimeconfig.cache
